@@ -1,0 +1,1 @@
+let arreglo = [3, 2, 1]
